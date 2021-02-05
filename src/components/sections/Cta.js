@@ -53,7 +53,7 @@ const Cta = ({
         >
           <div className="cta-slogan center-content">
             <h3 className="m-0">
-              Think <i>Zaquariah</i> when you're thinking about your next ACM <sup>President</sup> || <sub>Vice President.</sub>
+              Think <i>Zaquariah</i> when you're thinking about your next ACM <sup>President</sup> || <sub>Vice President</sub>
               </h3>
           </div>
           {/*<div className="cta-action">*/}
