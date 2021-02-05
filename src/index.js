@@ -13,7 +13,7 @@ import './assets/scss/style.scss';
 const history = createBrowserHistory();
 
 ReactDOM.render(
-  <BrowserRouter history={history} basename="/officer-elections">
+  <BrowserRouter history={history}>
     <App />
   </BrowserRouter>,
   document.getElementById('root')
