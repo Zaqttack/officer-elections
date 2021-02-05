@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/officer-elections/static/css/main.760155b8.chunk.css",
+    "main.js": "/officer-elections/static/js/main.03ff0d31.chunk.js",
+    "main.js.map": "/officer-elections/static/js/main.03ff0d31.chunk.js.map",
+    "runtime-main.js": "/officer-elections/static/js/runtime-main.6b1adc5c.js",
+    "runtime-main.js.map": "/officer-elections/static/js/runtime-main.6b1adc5c.js.map",
+    "static/js/2.b845edf2.chunk.js": "/officer-elections/static/js/2.b845edf2.chunk.js",
+    "static/js/2.b845edf2.chunk.js.map": "/officer-elections/static/js/2.b845edf2.chunk.js.map",
+    "index.html": "/officer-elections/index.html",
+    "precache-manifest.970ea308f1c961da7f4fe8cf8ff31771.js": "/officer-elections/precache-manifest.970ea308f1c961da7f4fe8cf8ff31771.js",
+    "service-worker.js": "/officer-elections/service-worker.js",
+    "static/css/main.760155b8.chunk.css.map": "/officer-elections/static/css/main.760155b8.chunk.css.map",
+    "static/js/2.b845edf2.chunk.js.LICENSE.txt": "/officer-elections/static/js/2.b845edf2.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/officer-elections/static/media/illustration-section-02.7593fba7.svg",
+    "static/media/feature-acm-wiki.png": "/officer-elections/static/media/feature-acm-wiki.b7a9d36a.png",
+    "static/media/feature-roadrunner-cycling.jpg": "/officer-elections/static/media/feature-roadrunner-cycling.975539bb.jpg",
+    "static/media/feature-rowdyhacks.png": "/officer-elections/static/media/feature-rowdyhacks.2e478bc1.png",
+    "static/media/feature-tile-icon-01.svg": "/officer-elections/static/media/feature-tile-icon-01.a520cf52.svg",
+    "static/media/feature-tile-icon-02.svg": "/officer-elections/static/media/feature-tile-icon-02.5111bcd5.svg",
+    "static/media/feature-tile-icon-03.svg": "/officer-elections/static/media/feature-tile-icon-03.198608f5.svg",
+    "static/media/feature-tile-icon-04.svg": "/officer-elections/static/media/feature-tile-icon-04.dc69dedd.svg",
+    "static/media/feature-tile-icon-06.svg": "/officer-elections/static/media/feature-tile-icon-06.af818383.svg",
+    "static/media/video-placeholder.jpg": "/officer-elections/static/media/video-placeholder.a622fc5d.jpg",
+    "static/media/z-logo.svg": "/officer-elections/static/media/z-logo.4359350e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b1adc5c.js",
+    "static/js/2.b845edf2.chunk.js",
+    "static/css/main.760155b8.chunk.css",
+    "static/js/main.03ff0d31.chunk.js"
+  ]
+}
