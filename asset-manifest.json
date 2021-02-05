@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/officer-elections/static/css/main.760155b8.chunk.css",
-    "main.js": "/officer-elections/static/js/main.03ff0d31.chunk.js",
-    "main.js.map": "/officer-elections/static/js/main.03ff0d31.chunk.js.map",
+    "main.js": "/officer-elections/static/js/main.098ff7ca.chunk.js",
+    "main.js.map": "/officer-elections/static/js/main.098ff7ca.chunk.js.map",
     "runtime-main.js": "/officer-elections/static/js/runtime-main.6b1adc5c.js",
     "runtime-main.js.map": "/officer-elections/static/js/runtime-main.6b1adc5c.js.map",
-    "static/js/2.b845edf2.chunk.js": "/officer-elections/static/js/2.b845edf2.chunk.js",
-    "static/js/2.b845edf2.chunk.js.map": "/officer-elections/static/js/2.b845edf2.chunk.js.map",
+    "static/js/2.d640c1bb.chunk.js": "/officer-elections/static/js/2.d640c1bb.chunk.js",
+    "static/js/2.d640c1bb.chunk.js.map": "/officer-elections/static/js/2.d640c1bb.chunk.js.map",
     "index.html": "/officer-elections/index.html",
-    "precache-manifest.970ea308f1c961da7f4fe8cf8ff31771.js": "/officer-elections/precache-manifest.970ea308f1c961da7f4fe8cf8ff31771.js",
+    "precache-manifest.de3f437159a04720b29d3580870015e9.js": "/officer-elections/precache-manifest.de3f437159a04720b29d3580870015e9.js",
     "service-worker.js": "/officer-elections/service-worker.js",
     "static/css/main.760155b8.chunk.css.map": "/officer-elections/static/css/main.760155b8.chunk.css.map",
-    "static/js/2.b845edf2.chunk.js.LICENSE.txt": "/officer-elections/static/js/2.b845edf2.chunk.js.LICENSE.txt",
+    "static/js/2.d640c1bb.chunk.js.LICENSE.txt": "/officer-elections/static/js/2.d640c1bb.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/officer-elections/static/media/illustration-section-02.7593fba7.svg",
     "static/media/feature-acm-wiki.png": "/officer-elections/static/media/feature-acm-wiki.b7a9d36a.png",
     "static/media/feature-roadrunner-cycling.jpg": "/officer-elections/static/media/feature-roadrunner-cycling.975539bb.jpg",
@@ -26,8 +26,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.6b1adc5c.js",
-    "static/js/2.b845edf2.chunk.js",
+    "static/js/2.d640c1bb.chunk.js",
     "static/css/main.760155b8.chunk.css",
-    "static/js/main.03ff0d31.chunk.js"
+    "static/js/main.098ff7ca.chunk.js"
   ]
 }
