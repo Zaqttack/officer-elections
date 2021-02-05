@@ -65,8 +65,11 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                The great Technical Officer of ACM from 20-21 brings you a new change of pace! A change for him to lead.
-                </p>
+                The great Technical Officer of ACM from 20-21 brings you a new change of pace! A chance for him to lead.
+              </p>
+              <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="500">
+                Let me be your next ACM President.
+              </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   {/*<Button tag="a" color="#F18A22" wideMobile href="#0">*/}

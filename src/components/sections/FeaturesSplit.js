@@ -51,7 +51,7 @@ const FeaturesSplit = ({
 
   const sectionHeader = {
     title: 'Projects and Leadership',
-    paragraph: 'These are just some highlights I have enjoyed through my journey in leadership. The projects are a result of me observing a need and wanting to fill it.'
+    paragraph: 'Gaze upon highlights I have enjoyed throughout my journey in leadership. The very moments that have helped define and shape who I am.'
   };
 
   return (

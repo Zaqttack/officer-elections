@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'Know my background',
-    paragraph: 'Take a surface level peek into the leadership that Zaq can offer. These skills all came with the support of my team.'
+    paragraph: 'Take a peek into the leadership that I can offer. These skills all came with the support of my team and with them, I will help lead!'
   };
 
   return (
