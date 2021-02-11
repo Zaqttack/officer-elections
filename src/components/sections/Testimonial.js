@@ -62,7 +62,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
+                    — Zaquariah is one of the highest energy individuals I know ... sometime too much energy ... no like seriously, sometime I need to tell him to calm down.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -79,7 +79,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — In the almost four years I have known, Zaq he has been a consistent hard worker. Always going the extra mile to achieve sucess. He thinks outside the box and comes up with new innovative ways to achieve group sucess and accomplish goals. He is very driven and always wanting to do better. He brings a fun humorous attitude to even stressful and difficult environments.
+                    — In the almost four years I have known Zaq, he has been a consistent hard worker. Always going the extra mile to achieve success. He thinks outside the box and comes up with new innovative ways to achieve group sucess and accomplish goals. He is very driven and always wanting to do better. He brings a fun humorous attitude to even stressful and difficult environments.
                     </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -96,14 +96,14 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
-                      </p>
+                    — Ever since he was young, Zaquariah has always worked hard for what he wanted and done it on his time table. From learning how to walk to getting his education. This newest adventure is something I know he'll not only succeed at but he will excel! And I'm not just saying that because I'm his mom.
+                  </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">[unknown]</span>
+                  <span className="testimonial-item-name text-color-high">Zaq's Mom</span>
                   <span className="text-color-low"> / </span>
                   <span className="testimonial-item-link">
-                    <a href="#0">LinkdIn</a>
+                    <a href="https://www.linkedin.com/in/anastasia-oestreich-94b2091a1/">LinkdIn</a>
                   </span>
                 </div>
               </div>
@@ -131,7 +131,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
+                    — In the time I have known Zaq I have learned that he is a driven individual. Always setting goals to accomplish and working as hard as he can to follow through. Zaq is very innovative as well always coming up with ideas and solutions to problems. The part that I like the best about Zaq though is that he always brings cheer to his work, always making the best of a difficult situation.
                   </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">

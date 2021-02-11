@@ -68,7 +68,7 @@ const Hero = ({
                 The great Technical Officer of ACM from 20-21 brings you a new change of pace! A chance for him to lead.
               </p>
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="500">
-                Let me be your next ACM President.
+                Let me be your next <span className="text-color-primary">ACM President</span>.
               </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
