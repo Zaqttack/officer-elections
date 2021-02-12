@@ -19,13 +19,13 @@ const Logo = ({
       className={classes}
     >
       <h1 className="m-0">
-        <a href={"https://www.youtube.com/watch?v=e0oQi6nVWfs&feature=youtu.be"}>
+        {/*<a href={"https://www.youtube.com/watch?v=e0oQi6nVWfs&feature=youtu.be"}>*/}
           <Image
             src={require('./../../../assets/images/z-logo.svg')}
             alt="Open"
             width={32}
             height={32} />
-        </a>
+        {/*</a>*/}
       </h1>
     </div>
   );
