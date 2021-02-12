@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     Coding Skills
                     </h4>
                   <p className="m-0 text-sm">
-                    Although I am still growing, this is my future and it is what I am passionate now.
+                    Although I am still growing, this is my future and it is what I am passionate about now.
                     </p>
                 </div>
               </div>
