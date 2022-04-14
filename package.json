@@ -2,7 +2,6 @@
   "name": "open-react-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://comms.zaquariah.dev/",
   "dependencies": {
     "classnames": "^2.2.6",
     "gh-pages": "^3.1.0",
