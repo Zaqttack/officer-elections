@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77635f2860828fc807b15705d5696ef5",
+    "revision": "14735b051080f566dcdea5c28b1b17b1",
     "url": "/officer-elections/index.html"
   },
   {
-    "revision": "37c0481de17dfb041ff0",
+    "revision": "0a92e3533ff4612ecc19",
     "url": "/officer-elections/static/css/main.840f420e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/officer-elections/static/js/2.683b013b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "37c0481de17dfb041ff0",
-    "url": "/officer-elections/static/js/main.2824ea28.chunk.js"
+    "revision": "0a92e3533ff4612ecc19",
+    "url": "/officer-elections/static/js/main.0ae4f769.chunk.js"
   },
   {
     "revision": "79d05509776fd08abdb9",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/officer-elections/precache-manifest.ada6fc3705f497d5eff5f69bae804b3e.js"
+  "/officer-elections/precache-manifest.f6b76ba52dadc9433bd052a5d7c629ab.js"
 );
 
 self.addEventListener('message', (event) => {
