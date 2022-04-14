@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ec643c19489e96bc3ca62bf7b4b3d888",
+    "revision": "10c78bd7a97a06455a44c756fb812536",
     "url": "/index.html"
   },
   {
-    "revision": "1b6b6c5a6599b91f44c2",
+    "revision": "4fafef2c6690ced159c2",
     "url": "/static/css/main.6dc9df03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.683b013b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1b6b6c5a6599b91f44c2",
-    "url": "/static/js/main.956a471f.chunk.js"
+    "revision": "4fafef2c6690ced159c2",
+    "url": "/static/js/main.c0afbeb5.chunk.js"
   },
   {
     "revision": "c307e69827cf23a9bfac",
@@ -68,11 +68,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/illustration-section-02.7593fba7.svg"
   },
   {
-    "revision": "8a9d1399adc77b5079704672152ef497",
-    "url": "/static/media/video-placeholder.8a9d1399.png"
-  },
-  {
     "revision": "4359350e29ca89b8c812351a437d7bd1",
     "url": "/static/media/z-logo.4359350e.svg"
+  },
+  {
+    "revision": "ca3995eb6a6a8db71b4266729ab14ffc",
+    "url": "/static/media/zaquariah-holland.ca3995eb.jpg"
   }
 ]);
