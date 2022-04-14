@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/officer-elections/static/css/main.760155b8.chunk.css",
+    "main.css": "/officer-elections/static/css/main.840f420e.chunk.css",
     "main.js": "/officer-elections/static/js/main.997d72dc.chunk.js",
     "main.js.map": "/officer-elections/static/js/main.997d72dc.chunk.js.map",
     "runtime-main.js": "/officer-elections/static/js/runtime-main.6b1adc5c.js",
@@ -8,9 +8,9 @@
     "static/js/2.683b013b.chunk.js": "/officer-elections/static/js/2.683b013b.chunk.js",
     "static/js/2.683b013b.chunk.js.map": "/officer-elections/static/js/2.683b013b.chunk.js.map",
     "index.html": "/officer-elections/index.html",
-    "precache-manifest.d088582873e58c1da6ce6a061c0d9dd8.js": "/officer-elections/precache-manifest.d088582873e58c1da6ce6a061c0d9dd8.js",
+    "precache-manifest.ea28b3c7959db8fb9282a461f5b1f9af.js": "/officer-elections/precache-manifest.ea28b3c7959db8fb9282a461f5b1f9af.js",
     "service-worker.js": "/officer-elections/service-worker.js",
-    "static/css/main.760155b8.chunk.css.map": "/officer-elections/static/css/main.760155b8.chunk.css.map",
+    "static/css/main.840f420e.chunk.css.map": "/officer-elections/static/css/main.840f420e.chunk.css.map",
     "static/js/2.683b013b.chunk.js.LICENSE.txt": "/officer-elections/static/js/2.683b013b.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/officer-elections/static/media/illustration-section-02.7593fba7.svg",
     "static/media/feature-acm-wiki.png": "/officer-elections/static/media/feature-acm-wiki.b7a9d36a.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.6b1adc5c.js",
     "static/js/2.683b013b.chunk.js",
-    "static/css/main.760155b8.chunk.css",
+    "static/css/main.840f420e.chunk.css",
     "static/js/main.997d72dc.chunk.js"
   ]
 }
