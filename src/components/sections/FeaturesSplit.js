@@ -64,43 +64,18 @@ const FeaturesSplit = ({
           <SectionHeader data={sectionHeader} className="center-content" />
           <div className={splitClasses}>
 
-            <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  <a href="https://wiki.acmutsa.org">officer</a> // acm utsa
-                  </div>
-                <h3 className="mt-0 mb-12">
-                  ACM Wiki
-                  </h3>
-                <p className="m-0">
-                  I saw a gap in our organization for archiving and documenting historical data. We needed a place that future teams could look back on and easily find solutions. Thus aiding in further developing any future endeavours.
-                  </p>
-              </div>
-              <div className={
-                classNames(
-                  'split-item-image center-content-mobile reveal-from-bottom',
-                  imageFill && 'split-item-image-fill'
-                )}
-                data-reveal-container=".split-item">
-                <Image
-                  src={require('./../../assets/images/feature-acm-wiki.png')}
-                  alt="Features split 01"
-                  width={528}
-                  height={396} />
-              </div>
-            </div>
-
+            {/* RowdyHacks VI */}
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  <a href="https://rowdyhacks.org">Web Dev</a> // rowdyhacks
-                  </div>
+                  <a href="https://acmutsa.org/team">Vice Pres</a> // ACM UTSA
+                </div>
                 <h3 className="mt-0 mb-12">
-                  RowdyHacks Website
-                  </h3>
+                  Association for Computing Machinery
+                </h3>
                 <p className="m-0">
-                  Taking over the reigns from RowdyHacks 2020 was no joke but Brent, Chris and I are making it happen. The site has gone through a slight revamp to get updated with a fresh coat of paint. Hopefully showing off everything (and everyone) that RowdyHacks has to offer!
-                  </p>
+                  Working with the largest tech organization on UTSA campus has enabled me to make many connections and further develop my skills in assisting other leaders! I am a great team player and look forward to assisting the DSB in any way I can.
+                </p>
               </div>
               <div className={
                 classNames(
@@ -109,13 +84,14 @@ const FeaturesSplit = ({
                 )}
                 data-reveal-container=".split-item">
                 <Image
-                  src={require('./../../assets/images/feature-rowdyhacks.png')}
+                  src={require('./../../assets/images/zaquariah-holland.jpg')}
                   alt="Features split 02"
                   width={528}
                   height={396} />
               </div>
             </div>
 
+            {/* Roadrunner Cycling */}
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
@@ -137,6 +113,60 @@ const FeaturesSplit = ({
                 <Image
                   src={require('./../../assets/images/feature-roadrunner-cycling.jpg')}
                   alt="Features split 03"
+                  width={528}
+                  height={396} />
+              </div>
+            </div>
+
+            {/* ACM WIKI */}
+            <div className="split-item">
+              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                  <a href="https://wiki.acmutsa.org">officer</a> // acm utsa
+                  </div>
+                <h3 className="mt-0 mb-12">
+                  ACM Wiki
+                  </h3>
+                <p className="m-0">
+                  I saw a gap in our organization for archiving and documenting historical data. We needed a place that future teams could look back on and easily find solutions. 
+                  </p>
+              </div>
+              <div className={
+                classNames(
+                  'split-item-image center-content-mobile reveal-from-bottom',
+                  imageFill && 'split-item-image-fill'
+                )}
+                data-reveal-container=".split-item">
+                <Image
+                  src={require('./../../assets/images/feature-acm-wiki.png')}
+                  alt="Features split 01"
+                  width={528}
+                  height={396} />
+              </div>
+            </div>
+
+            {/* RowdyHacks VI */}
+            <div className="split-item">
+              <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                  <a href="https://rowdyhacks.org">Web Dev</a> // rowdyhacks
+                  </div>
+                <h3 className="mt-0 mb-12">
+                  RowdyHacks Website
+                  </h3>
+                <p className="m-0">
+                  Taking over the reigns from RowdyHacks 2020 was no joke but Brent, Chris and I are making it happen. The site has gone through a slight revamp to get updated with a fresh coat of paint. Hopefully showing off everything (and everyone) that RowdyHacks has to offer!
+                  </p>
+              </div>
+              <div className={
+                classNames(
+                  'split-item-image center-content-mobile reveal-from-bottom',
+                  imageFill && 'split-item-image-fill'
+                )}
+                data-reveal-container=".split-item">
+                <Image
+                  src={require('./../../assets/images/feature-rowdyhacks.png')}
+                  alt="Features split 02"
                   width={528}
                   height={396} />
               </div>

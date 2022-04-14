@@ -72,10 +72,10 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
                     Leadership
-                    </h4>
+                  </h4>
                   <p className="m-0 text-sm">
                     Whether it is a group project in class or creating a Wiki for the largest CS club on campus, you can always rely on me to get the ball rolling!
-                    </p>
+                  </p>
                 </div>
               </div>
             </div>
@@ -94,10 +94,10 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
                     Teamwork
-                    </h4>
+                  </h4>
                   <p className="m-0 text-sm">
                     Effectively and efficiently setting and completing task is my status quo.
-                    </p>
+                  </p>
                 </div>
               </div>
             </div>
@@ -116,10 +116,10 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
                     Coding Skills
-                    </h4>
+                  </h4>
                   <p className="m-0 text-sm">
                     Although I am still growing, this is my future and it is what I am passionate about now.
-                    </p>
+                  </p>
                 </div>
               </div>
             </div>
@@ -138,35 +138,13 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
                     Self Learner
-                    </h4>
+                  </h4>
                   <p className="m-0 text-sm">
                     I would not be here now if it was not for need to be constantly acquiring new skills to help myself and my friends succeed.
-                    </p>
+                  </p>
                 </div>
               </div>
             </div>
-
-            {/*<div className="tiles-item reveal-from-bottom" data-reveal-delay="200">*/}
-            {/*  <div className="tiles-item-inner">*/}
-            {/*    <div className="features-tiles-item-header">*/}
-            {/*      <div className="features-tiles-item-image mb-16">*/}
-            {/*        <Image*/}
-            {/*          src={require('./../../assets/images/feature-tile-icon-05.svg')}*/}
-            {/*          alt="Features tile icon 05"*/}
-            {/*          width={64}*/}
-            {/*          height={64} />*/}
-            {/*      </div>*/}
-            {/*    </div>*/}
-            {/*    <div className="features-tiles-item-content">*/}
-            {/*      <h4 className="mt-0 mb-8">*/}
-            {/*        Robust Workflow*/}
-            {/*        </h4>*/}
-            {/*      <p className="m-0 text-sm">*/}
-            {/*        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.*/}
-            {/*        </p>*/}
-            {/*    </div>*/}
-            {/*  </div>*/}
-            {/*</div>*/}
 
             <div className="tiles-item reveal-from-bottom" data-reveal-delay="200">
               <div className="tiles-item-inner">
@@ -182,10 +160,10 @@ const FeaturesTiles = ({
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
                     Dependable
-                    </h4>
+                  </h4>
                   <p className="m-0 text-sm">
                     Always around when a task needs to be completed and will ensure that time can be set aside for just about any problem.
-                    </p>
+                  </p>
                 </div>
               </div>
             </div>
