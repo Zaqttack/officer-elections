@@ -113,7 +113,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <p className="text-sm mb-0">
-                    — ACM is full of great people but I've found myself getting closest to Zaq. He's really chill, friendly and helpful. Anyone in ACM would agree that he's a great contribution to the team, and would make as an amazing President. Anyone would be lucky to have him as a friend! Zaq = G.O.A.T.</p>
+                    — ACM is full of great people but I've found myself getting closest to Zaq. He's really chill, friendly and helpful. Anyone in ACM would agree that he's a great contribution to the team, and would make as an amazing Leader. Anyone would be lucky to have him as a friend! Zaq = G.O.A.T.</p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
                   <span className="testimonial-item-name text-color-high">Desiree Garcia</span>
