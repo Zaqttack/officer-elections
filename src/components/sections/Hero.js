@@ -3,7 +3,9 @@ import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
 import ButtonGroup from '../elements/ButtonGroup';
 import Button from '../elements/Button';
+// eslint-disable-next-line
 import Image from '../elements/Image';
+// eslint-disable-next-line
 import Modal from '../elements/Modal';
 
 const propTypes = {
@@ -25,6 +27,7 @@ const Hero = ({
   ...props
 }) => {
 
+  // eslint-disable-next-line
   const [videoModalActive, setVideomodalactive] = useState(false);
 
   const openModal = (e) => {

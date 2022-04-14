@@ -13,7 +13,7 @@ import './assets/scss/style.scss';
 const history = createBrowserHistory();
 
 ReactDOM.render(
-  <BrowserRouter history={history}>
+  <BrowserRouter history={history} basename={process.env.PUBLIC_URL}>
     <App />
   </BrowserRouter>,
   document.getElementById('root')
